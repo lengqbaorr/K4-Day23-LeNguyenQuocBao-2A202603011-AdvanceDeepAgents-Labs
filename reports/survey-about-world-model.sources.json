@@ -1,0 +1,122 @@
+[
+  {
+    "n": 1,
+    "id": "1803.10122",
+    "url": "https://arxiv.org/abs/1803.10122",
+    "title": "World Models",
+    "date": "",
+    "source": "arxiv"
+  },
+  {
+    "n": 2,
+    "id": "2301.05832",
+    "url": "https://arxiv.org/abs/2301.05832",
+    "title": "World Models and Predictive Coding for Cognitive and Developmental Robotics: Frontiers and Challenges",
+    "date": "",
+    "source": "arxiv"
+  },
+  {
+    "n": 3,
+    "id": "2301.04104",
+    "url": "https://arxiv.org/abs/2301.04104",
+    "title": "Mastering Diverse Domains through World Models",
+    "date": "2023-01-10",
+    "source": "arxiv"
+  },
+  {
+    "n": 4,
+    "id": "https://arxiv.org/pdf/1811.04551v5.pdf",
+    "url": "https://arxiv.org/pdf/1811.04551v5.pdf",
+    "title": "Learning Latent Dynamics for Planning from Pixels",
+    "date": "",
+    "source": "web"
+  },
+  {
+    "n": 5,
+    "id": "https://www.nature.com/articles/s41586-025-08744-2",
+    "url": "https://www.nature.com/articles/s41586-025-08744-2",
+    "title": "Mastering diverse control tasks through world models",
+    "date": "2025-04-02",
+    "source": "web"
+  },
+  {
+    "n": 6,
+    "id": "https://proceedings.mlr.press/v235/zhou24f.html",
+    "url": "https://proceedings.mlr.press/v235/zhou24f.html",
+    "title": "RoboDreamer: Learning Compositional World Models for Robot Imagination",
+    "date": "2024-07-08",
+    "source": "web"
+  },
+  {
+    "n": 7,
+    "id": "60474",
+    "url": "https://deepmind.google/research/publications/60474/",
+    "title": "Genie: Generative Interactive Environments — Google DeepMind",
+    "date": "2024-02-23",
+    "source": "web"
+  },
+  {
+    "n": 8,
+    "id": "Genie 2",
+    "url": "https://deepmind.google/blog/genie-2-a-large-scale-foundation-world-model/",
+    "title": "Genie 2: A large-scale foundation world model",
+    "date": "2024-12-04",
+    "source": "web"
+  },
+  {
+    "n": 9,
+    "id": "2502.20694",
+    "url": "https://huggingface.co/papers/2502.20694",
+    "title": "WorldModelBench: Judging Video Generation Models As World Models",
+    "date": "2025-02-28",
+    "source": "hf-search"
+  },
+  {
+    "n": 10,
+    "id": "",
+    "url": "https://arxiv.org/pdf/2605.27589v1",
+    "title": "What-If World: A Causal Benchmark for General World Models in Embodied Scenarios",
+    "date": "",
+    "source": "web"
+  },
+  {
+    "n": 11,
+    "id": "",
+    "url": "https://arxiv.org/html/2606.15032v2",
+    "title": "How Should World Models Be Evaluated for Embodied Decision-Making? A Decision-Making-Centric Position",
+    "date": "2026-06-28",
+    "source": "web"
+  },
+  {
+    "n": 12,
+    "id": "2206.14176",
+    "url": "https://arxiv.org/abs/2206.14176",
+    "title": "DayDreamer: World Models for Physical Robot Learning",
+    "date": "2022-06-28",
+    "source": "web"
+  },
+  {
+    "n": 13,
+    "id": "https://ntumars.github.io/wm-robot-survey/",
+    "url": "https://ntumars.github.io/wm-robot-survey/",
+    "title": "World Model for Robot Learning: A Comprehensive Survey",
+    "date": "",
+    "source": "web"
+  },
+  {
+    "n": 14,
+    "id": "2404.18202",
+    "url": "https://arxiv.org/abs/2404.18202",
+    "title": "WorldGPT: Empowering LLM as Multimodal World Model",
+    "date": "2024-04-28",
+    "source": "arxiv"
+  },
+  {
+    "n": 15,
+    "id": "2508.05635",
+    "url": "https://arxiv.org/abs/2508.05635",
+    "title": "Genie Envisioner: A Unified World Foundation Platform for Robotic Manipulation",
+    "date": "2025-08-07",
+    "source": "arxiv"
+  }
+]

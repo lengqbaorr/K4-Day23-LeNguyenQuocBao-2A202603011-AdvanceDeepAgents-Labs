@@ -1,0 +1,122 @@
+[
+  {
+    "n": 1,
+    "id": "2305.20050",
+    "url": "https://arxiv.org/abs/2305.20050",
+    "title": "Let’s Verify Step by Step",
+    "date": "2023-05-31",
+    "source": "arxiv"
+  },
+  {
+    "n": 2,
+    "id": "2506.14245",
+    "url": "https://arxiv.org/abs/2506.14245",
+    "title": "Reinforcement Learning with Verifiable Rewards: ...",
+    "date": "",
+    "source": "web"
+  },
+  {
+    "n": 3,
+    "id": "2203.14465",
+    "url": "https://arxiv.org/abs/2203.14465",
+    "title": "STaR: Bootstrapping Reasoning With Reasoning",
+    "date": "2022-03-28",
+    "source": "arxiv"
+  },
+  {
+    "n": 4,
+    "id": "2402.03300",
+    "url": "https://arxiv.org/abs/2402.03300",
+    "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+    "date": "2024-04-27",
+    "source": "arxiv"
+  },
+  {
+    "n": 5,
+    "id": "2501.12948",
+    "url": "https://arxiv.org/abs/2501.12948",
+    "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning",
+    "date": "2025-01-22",
+    "source": "web"
+  },
+  {
+    "n": 6,
+    "id": "2509.21882",
+    "url": "https://arxiv.org/abs/2509.21882",
+    "title": "Position: The Hidden Costs and Measurement Gaps of Reinforcement Learning with Verifiable Rewards",
+    "date": "2025-09-26",
+    "source": "arxiv"
+  },
+  {
+    "n": 7,
+    "id": "2507.14843",
+    "url": "https://arxiv.org/abs/2507.14843",
+    "title": "The Invisible Leash: Why RLVR May or May Not Escape Its Origin",
+    "date": "2025-07-20",
+    "source": "arxiv"
+  },
+  {
+    "n": 8,
+    "id": "2510.27044v2",
+    "url": "https://arxiv.org/html/2510.27044v2",
+    "title": "Limits of Generalization in RLVR: Two Case Studies in Mathematical Reasoning",
+    "date": "",
+    "source": "web"
+  },
+  {
+    "n": 9,
+    "id": "2604.15149",
+    "url": "https://arxiv.org/abs/2604.15149",
+    "title": "LLMs Gaming Verifiers: RLVR can Lead to Reward Hacking",
+    "date": "",
+    "source": "web"
+  },
+  {
+    "n": 10,
+    "id": "https://openai.com/index/learning-to-reason-with-llms/",
+    "url": "https://openai.com/index/learning-to-reason-with-llms/",
+    "title": "Learning to reason with LLMs",
+    "date": "2024-09-12",
+    "source": "web"
+  },
+  {
+    "n": 11,
+    "id": "2203.02155",
+    "url": "https://arxiv.org/abs/2203.02155",
+    "title": "Training language models to follow instructions with human feedback",
+    "date": "2022-03-04",
+    "source": "web"
+  },
+  {
+    "n": 12,
+    "id": "2308.08998",
+    "url": "https://arxiv.org/abs/2308.08998",
+    "title": "Reinforced Self-Training (ReST) for Language Modeling",
+    "date": "2023-08-21",
+    "source": "web"
+  },
+  {
+    "n": 13,
+    "id": "2503.24290",
+    "url": "https://arxiv.org/pdf/2503.24290",
+    "title": "Open-Reasoner-Zero: An Open Source Approach to Scaling Up Reinforcement Learning on the Base Model",
+    "date": "",
+    "source": "web"
+  },
+  {
+    "n": 14,
+    "id": "2412.16849",
+    "url": "https://arxiv.org/pdf/2412.16849",
+    "title": "OpenRFT",
+    "date": "",
+    "source": "web"
+  },
+  {
+    "n": 15,
+    "id": "2502.18449",
+    "url": "https://huggingface.co/papers/2502.18449",
+    "title": "SWE-RL: Advancing LLM Reasoning via Reinforcement Learning on Open Software Evolution",
+    "date": "2025-02-25",
+    "source": "hf-search"
+  }
+]
